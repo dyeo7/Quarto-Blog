@@ -1,0 +1,22 @@
+---
+title: "About"
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/danielyeo7/
+    - icon: github
+      text: Github
+      href: https://github.com/dyeo7
+
+---
+
+Daniel Yeo is a senior at UCLA studying Sociology with a Computing Specialization.
+
+## Education
+University of California, Los Angeles | Los Angeles, California
+BA in Sociology, Computing Specialization | Sept 2022 - Dec 2024
+
+Santa Monica College | Los Angeles, California
+AA in Sociology | Aug 2020 - June 2022
